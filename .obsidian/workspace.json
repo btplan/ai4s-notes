@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b276cd5c97109300",
@@ -213,9 +212,10 @@
   },
   "active": "5987bf4e99460f5f",
   "lastOpenFiles": [
+    "未命名.base",
+    "汇报演讲稿/EGNN.md",
     "组会汇报逻辑.md",
     "汇报演讲稿/ELIT.md",
-    "汇报演讲稿/EGNN.md",
     "paper-notes/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md",
     "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
     "汇报演讲稿",
