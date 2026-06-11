@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "用图探索原子分辨率显微图像中的结构多样性/不懂的概念.md",
+                "file": "汇报演讲稿/ELIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不懂的概念"
+              "title": "ELIT"
             }
           }
         ],
@@ -209,24 +209,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d67893dee489c4a0",
+  "active": "5987bf4e99460f5f",
   "lastOpenFiles": [
-    "如何评价DFT质量.md",
-    "制作ppt的prompt.md",
-    "报告/Ensemble learning-iterative training machine learning for uncertainty.md",
-    "报告/EGNN_TEM_论文阅读与复现逻辑.md",
-    "报告/Machine learning in scanning transmission electron microscopy 1.md",
-    "报告/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md",
-    "prompt/非综述型文章使用的提示词.md",
-    "报告/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
-    "paper/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.pdf",
+    "汇报演讲稿/EGNN.md",
+    "汇报演讲稿/ELIT.md",
+    "paper-notes/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md",
+    "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
+    "汇报演讲稿",
+    "paper-notes/未命名",
+    "paper-notes/Machine learning in scanning transmission electron microscopy 1.md",
+    "paper-notes/Ensemble learning-iterative training machine learning for uncertainty.md",
+    "paper-notes/EGNN_TEM_论文阅读与复现逻辑.md",
     "用图探索原子分辨率显微图像中的结构多样性/看文章.md",
     "用图探索原子分辨率显微图像中的结构多样性/不懂的概念.md",
+    "如何评价DFT质量.md",
+    "prompt/制作ppt的prompt.md",
+    "prompt/非综述型文章使用的提示词.md",
+    "paper/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.pdf",
     "prompt/综述型文章使用的提示词.md",
     "如何评价TEM质量.md",
     "Scientific AI in materials science.md",
     "报告/Machine learning in scanning transmission electron microscopy.md",
-    "报告",
+    "paper-notes",
     "欢迎.md"
   ]
 }

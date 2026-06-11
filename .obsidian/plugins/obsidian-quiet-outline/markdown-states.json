@@ -103,9 +103,7 @@
         "ch": 0
       }
     },
-    "expandedKeys": [
-      "item-2-2"
-    ]
+    "expandedKeys": []
   },
   "如何评价TEM质量.md": {
     "scroll": 0,
@@ -181,7 +179,7 @@
     ]
   },
   "用图探索原子分辨率显微图像中的结构多样性/不懂的概念.md": {
-    "scroll": 1.1289274368793643,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 1,
@@ -268,7 +266,7 @@
     "expandedKeys": []
   },
   "报告/EGNN_TEM_论文阅读与复现逻辑.md": {
-    "scroll": 19.464062531789143,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 8,
@@ -335,5 +333,91 @@
       "item-2-5",
       "item-2-1"
     ]
+  },
+  "paper-notes/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "paper-notes/Ensemble learning-iterative training machine learning for uncertainty.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "paper-notes/Machine learning in scanning transmission electron microscopy 1.md": {
+    "scroll": 16.27906976744186,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "paper-notes/EGNN_TEM_论文阅读与复现逻辑.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": [
+      "item-1-0"
+    ]
+  },
+  "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "汇报演讲稿/未命名.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
