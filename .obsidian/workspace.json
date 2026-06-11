@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇报演讲稿/ELIT.md",
+                "file": "组会汇报逻辑.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELIT"
+              "title": "组会汇报逻辑"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "5987bf4e99460f5f",
   "lastOpenFiles": [
-    "汇报演讲稿/EGNN.md",
     "汇报演讲稿/ELIT.md",
+    "组会汇报逻辑.md",
+    "汇报演讲稿/EGNN.md",
     "paper-notes/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md",
     "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
     "汇报演讲稿",
