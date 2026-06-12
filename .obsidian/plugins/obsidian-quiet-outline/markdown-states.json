@@ -449,7 +449,7 @@
     "expandedKeys": []
   },
   "汇报演讲稿/EGNN.md": {
-    "scroll": 124.25920120875041,
+    "scroll": 107.23750178019206,
     "cursor": {
       "from": {
         "line": 134,
@@ -463,5 +463,19 @@
     "expandedKeys": [
       "item-2-0"
     ]
+  },
+  "汇报演讲稿/EGNN2.md": {
+    "scroll": 58.666666666666664,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 155
+      },
+      "to": {
+        "line": 6,
+        "ch": 155
+      }
+    },
+    "expandedKeys": []
   }
 }
