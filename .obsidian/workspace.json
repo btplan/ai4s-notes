@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "汇报演讲稿/EGNN2.md",
+                "file": "paper-notes/Machine learning in scanning transmission electron microscopy 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EGNN2"
+              "title": "Machine learning in scanning transmission electron microscopy 1"
             }
           }
         ]
@@ -197,17 +197,17 @@
   },
   "active": "5987bf4e99460f5f",
   "lastOpenFiles": [
+    "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
+    "汇报演讲稿/EGNN2.md",
     "paper-notes/Ensemble learning-iterative training machine learning for uncertainty.md",
     "paper-notes/EGNN_TEM_论文阅读与复现逻辑.md",
     "prompt/非综述型文章使用的提示词.md",
     "prompt/综述型文章使用的提示词.md",
     "组会汇报逻辑.md",
-    "汇报演讲稿/EGNN2.md",
     "汇报演讲稿/EGNN.md",
     "未命名.base",
     "汇报演讲稿/ELIT.md",
     "paper-notes/Exploring Structure Diversity in Atomic Resolution Microscopy With Graph.md",
-    "paper-notes/TEMImageNet training library and AtomSegNet deep‐learning models for high‐precision atom segmentation, localization, denoising, and deblurring of atomic‐resolution images.md",
     "汇报演讲稿",
     "paper-notes/未命名",
     "paper-notes/Machine learning in scanning transmission electron microscopy 1.md",
