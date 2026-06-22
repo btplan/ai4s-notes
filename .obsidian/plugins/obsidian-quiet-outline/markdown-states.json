@@ -349,7 +349,7 @@
     "expandedKeys": []
   },
   "paper-notes/Ensemble learning-iterative training machine learning for uncertainty.md": {
-    "scroll": 28.17133310699268,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 19,
@@ -363,7 +363,7 @@
     "expandedKeys": []
   },
   "paper-notes/Machine learning in scanning transmission electron microscopy 1.md": {
-    "scroll": 389.29648827184076,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 418,
@@ -474,6 +474,20 @@
       "to": {
         "line": 132,
         "ch": 120
+      }
+    },
+    "expandedKeys": []
+  },
+  "paper-notes/Machine learning in scanning transmission electron microscopy.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 19,
+        "ch": 0
+      },
+      "to": {
+        "line": 19,
+        "ch": 0
       }
     },
     "expandedKeys": []
